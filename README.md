@@ -4,4 +4,4 @@ An app for managing employee rewards and penalties
 
 #### License
 
-MIT
+MIT# Rewards-and-penalties-app
