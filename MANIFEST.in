@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include rewards_and_penalties *.css
+recursive-include rewards_and_penalties *.csv
+recursive-include rewards_and_penalties *.html
+recursive-include rewards_and_penalties *.ico
+recursive-include rewards_and_penalties *.js
+recursive-include rewards_and_penalties *.json
+recursive-include rewards_and_penalties *.md
+recursive-include rewards_and_penalties *.png
+recursive-include rewards_and_penalties *.py
+recursive-include rewards_and_penalties *.svg
+recursive-include rewards_and_penalties *.txt
+recursive-exclude rewards_and_penalties *.pyc
